@@ -1,0 +1,27 @@
+# Web scraping and automation
+playwright==1.43.0
+
+
+google-generativeai==0.5.2
+
+# Local vector DB for versioning
+chromadb==0.4.24
+
+# Web interface (for human-in-the-loop review)
+streamlit==1.35.0
+
+# RL Search and vector similarity
+scikit-learn==1.5.0
+numpy==1.26.4
+
+# Utility and parsing
+pandas==2.2.2
+tqdm==4.66.4
+python-dotenv==1.0.1
+
+# Optional: LLM compatibility and enhanced token handling
+tiktoken==0.7.0
+
+
+sentence_transformers
+bs4
